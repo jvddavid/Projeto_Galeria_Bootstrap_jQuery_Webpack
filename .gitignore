@@ -1,3 +1,6 @@
+#custom folders ignore
+build
+
 # Logs
 logs
 *.log
