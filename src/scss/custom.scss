@@ -3,6 +3,18 @@ Author: João Victor David de Oliveira (j.victordavid2@gmail.com)
 custom.scss (c) 2021
 Desc: description
 Created:  2021-11-15T04:29:41.765Z
-Modified: 2021-11-15T04:29:46.785Z
+Modified: 2021-11-18T05:05:50.318Z
 */
 
+.jumbotron {
+    background-color: #fff;
+    margin: 0;
+    .jumbotron-heading {
+        font-weight: 300;
+    }
+}
+
+footer {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
